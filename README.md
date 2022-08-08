@@ -19,8 +19,6 @@ their execute() method. AbstractSubCommand's execute() method will perform actua
 - Where: Option class
 - Why: Provide flexibility when instantiating object with many optional fields.
 
-## Note about UML diagram
-We couldn't include dependencies in our UML diagram because the image file was too large to generate.
 
 ## Note about csv files
 Uploaded csv files are used in our unit tests.
